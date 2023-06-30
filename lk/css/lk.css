@@ -1,0 +1,39 @@
+.form-control {
+   padding: 20px;
+   
+}
+.susu{
+   font-family: "Roboto", sans-serif;
+   font-size: 20px;
+   text-align: end;
+}
+.logo{
+   max-width: 150px;
+}
+.headerindex{
+   text-align: center;
+   font-family: 'Raleway', sans-serif;
+   font-size: 25px;
+   line-height: 30px;
+
+}
+.description{
+   font-family: 'Raleway', sans-serif;
+   font-size: 15px;
+   text-align: center;
+   line-height: 30px;
+}
+
+.section-hero{
+   background-color: #E8E8E8;
+   text-align: center;
+   /*max-width: 700px;*/
+}
+
+#heading-style{
+	text-align: center;
+}
+
+.table-disription{
+	width = 200px;
+}
